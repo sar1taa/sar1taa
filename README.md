@@ -17,7 +17,7 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 ### Languages:
 | HTML | CSS | JavaScript |
 |--------|---|------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Go" width="55" height="55"/> |
 
 <!--
 **sar1taa/sar1taa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
