@@ -17,7 +17,17 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 ### Languages:
 | HTML | CSS | JavaScript |
 |--------|---|------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Go" width="55" height="55"/> |
+|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/> |
+
+### Best Frameworks and Libraries for Front-End:
+| Bootstrap | TypeScript | Tailwind | React | Angular | Vue |
+|---------|----------|-------|--------|---------|--------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="55" height="55"/> |
+
+### Databases:
+| MySQL | MongoDB | PostgreSQL |
+|---------|-------|--------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55"/> | 
 
 <!--
 **sar1taa/sar1taa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
