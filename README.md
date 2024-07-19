@@ -29,6 +29,24 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 |---------|-------|--------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55"/> | 
 
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sar1taa&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+---
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sar1taa&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sar1taa&layout=compact&theme=vision-friendly-dark">
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sar1taa&style=for-the-badge&color=orange" alt="Profile Views Count"/>
+</div>
+
 <!--
 **sar1taa/sar1taa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
