@@ -6,7 +6,7 @@ I'm a passionate Front-End Developer with expertise in HTML, CSS, JavaScript.
 - 💻 Actively practicing and refining coding skills, particularly in implementing JavaScript and React Framework.
 - 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.
 
-Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://sar1taa.github.io/sarita/)]
+Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://sar1taa.github.io/sarita/)
 
 ### Social Media 📡:
 - Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarita-951424253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYjFTFJfvT%2BCGG5ECEiKB%2Fg%3D%3D)
